@@ -1,6 +1,5 @@
 # ip_w4_Autolib
 # Autolib notebook
-One Paragraph of project description goes here
 The workspace was used in the cleaning and analysis of an aoutolib data with the aim of answering some research questions for a data report on understanding electric car usage for the nine day period.
 
 # Getting Started
