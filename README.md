@@ -4,7 +4,9 @@ The workspace was used in the cleaning and analysis of an aoutolib data with the
 
 # Getting Started
 Create a new file on google colab note book
+
 Import libraries to be used
+
 Finally, load the csv files containing the autolib data
 
 # Prerequisites
